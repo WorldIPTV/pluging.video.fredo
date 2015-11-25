@@ -34,7 +34,7 @@ class NoRedirection(urllib2.HTTPErrorProcessor):
        return response
    https_response = http_response
        
-HushamBase = 'http://pastebin.com/raw.php?i=RPKGBzaT'
+HushamBase ='http://pastebin.com/raw.php?i=XqfzJp2E'
 
 addon = xbmcaddon.Addon('plugin.video.fredo')
 addon_version = addon.getAddonInfo('version')
