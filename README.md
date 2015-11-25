@@ -1,1 +1,2 @@
-# pluging.video.fredo
+# soloman
+Solo Man Addon
