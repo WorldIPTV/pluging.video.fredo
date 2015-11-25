@@ -1,2 +1,1 @@
-# soloman
-Solo Man Addon
+FREDO ADDON
